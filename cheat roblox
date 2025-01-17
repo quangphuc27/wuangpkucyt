@@ -2,4 +2,4 @@ link tải bloxstrap (mới nhất): https://github.com/bloxstraplabs/bloxstrap/
 
 link tải zorara clinet: https://gofile.io/d/Fn3I0D
 
-script như trên video: 
+script như trên video: loadstring(game:HttpGet("https://auth.quartyz.com/scripts/Loader.lua"))()
